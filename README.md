@@ -2,9 +2,10 @@
 ​Collection of my personal fastfetch configurations. Focused on aesthetics, structure, and readability.
 
 ​🛠 Features
-​Modular Layout: System info is categorized into System, Software, and Hardware blocks.
 
-​1337 Visuals: Old-school leetspeak style for a tech-heavy look.
+- ​Modular Layout: System info is categorized into System, Software, and Hardware blocks.
+
+- ​1337 Visuals: Old-school leetspeak style for a tech-heavy look.
 ​Extended Info: Includes Weather, DNS, and Local IP modules.
 
 ​📂 Configurations
